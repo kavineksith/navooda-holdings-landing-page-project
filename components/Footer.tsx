@@ -32,10 +32,10 @@ const Footer: React.FC = () => {
                     <div>
                         <h4 className="font-primary text-xl font-semibold text-primary-gold mb-4">Our Brands</h4>
                         <ul className="space-y-3">
-                            <li><a href="#" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Saloon Navodaa</a></li>
-                            <li><a href="#" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">The Fancy Point</a></li>
-                            <li><a href="#" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Navodaa Online Store</a></li>
-                            <li><a href="#" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Navodaa Fashion</a></li>
+                            <li><a href="https://www.facebook.com/share/1BVgd3qSs7/" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Saloon Navodaa</a></li>
+                            <li><a href="https://www.facebook.com/share/17ZRxZhy46/" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">The Fancy Point</a></li>
+                            <li><a href="https://www.facebook.com/share/1Cvph26nSc/" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Navodaa Online Store</a></li>
+                            <li><a href="https://www.facebook.com/salonnavodaDN" className="hover:text-primary-gold transition-colors duration-300 text-sm text-white/70 hover:text-white">Navodaa Fashion</a></li>
                         </ul>
                     </div>
 
